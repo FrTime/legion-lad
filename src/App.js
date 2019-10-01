@@ -3,6 +3,8 @@ import logo from './logo.png';
 import './App.css';
 
 function App() {
+
+  console.log("process.env:", process.env)
   return (
     <div className="App">
       <header className="App-header">
