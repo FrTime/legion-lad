@@ -9,7 +9,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          With a purposeful grimace, and a terrible sound.
+          With a purposeful grimace, and a terrible sound
         </p>
       </header>
     </div>
